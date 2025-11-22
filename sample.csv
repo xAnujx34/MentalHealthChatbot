@@ -1,0 +1,6 @@
+// you can train model yourslef by sample dataset in this format
+
+sleep_issues,feeling_anxious,loss_of_interest,stress_level
+0.0,0.0,0.0,Low
+0.4,0.3,0.3,Moderate
+1.0,1.0,0.9,High
